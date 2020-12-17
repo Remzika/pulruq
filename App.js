@@ -8,14 +8,7 @@ function App() {
     <div className="App">
       <Navbar />
       <Signup />
-      {/* 
-  
-  //Route
-  //Signin
-  //Signup
-  //forgotpassword
-  //....
-  */}
+      <Text>deneme 1</Text>
     </div>
   );
 }
