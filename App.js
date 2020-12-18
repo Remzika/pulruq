@@ -13,6 +13,7 @@ function App() {
       <Text>This is the second row created by eyup</Text>
       <p>Teamwork - Talha deneme 1</p>
       <h1>Pull request 3</h1>
+      <h1>Deneme Temel</h1>
     </div>
   );
 }
