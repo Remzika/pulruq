@@ -11,6 +11,7 @@ function App() {
       <Text>deneme 1</Text>
       <Text>This is the first row created by eyup</Text>
       <Text>This is the second row created by eyup</Text>
+      <Text>Teamwork - Talha deneme 1</Text>
       <h1>Pull request 3</h1>
     </div>
   );
